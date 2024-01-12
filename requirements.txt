@@ -1,0 +1,6 @@
+slack_bolt
+waitress
+flask
+requests
+llama_index
+gunicorn
